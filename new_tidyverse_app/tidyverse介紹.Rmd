@@ -1,0 +1,11 @@
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+這個伺服器讓你能體驗tidyverse的功能
+
+你可以上傳自己的csv檔
+
+或是下載:[範例csv](https://docs.google.com/spreadsheets/d/e/2PACX-1vTpPg1erFUhXC6sKzUajLFeeBrdcPrugTyTWj8ly1tS4KS3h9yN31i4sq2NoGnHQ4_1M3rtbu1fo8XK/pub?gid=0&single=true&output=csv)
